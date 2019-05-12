@@ -1,0 +1,66 @@
+
+#Github
+https://guides.github.com/features/mastering-markdown/
+
+#text style
+
+_abc_ italic
+**abc** bold
+```aaa``` quotes
+`aaa` quotes
+~~aaa~~ strikethrough
+
+#Links:
+
+[abc](www.abc.com)
+
+bisa juga variable
+
+[abc][this is a variable]
+[this is a variable]: www.google.com
+
+Here's [a link to something else][another place].
+Here's [yet another link][another-link].
+And now back to [the first link][another place].
+
+[another place]: www.github.com
+[another-link]: www.google.com
+  
+
+
+#Images
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
+
+
+#Blockquotes
+
+> Abcabc
+
+
+#Lists
+
+unordered:
+* abc
+* def
+
+
+ordered:
+1. abc
+2. def
+
+
+nested:
+
+* title
+	* chapter
+	* chapter
+* abc
+
+
+
+
+#Breaks
+
+softbreak (insert new line)
+..
